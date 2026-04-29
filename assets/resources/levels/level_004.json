@@ -1,0 +1,15 @@
+{
+  "id": 4,
+  "rows": 4,
+  "cols": 4,
+  "matchCount": 3,
+  "moveLimit": 1,
+  "threeStarMoves": 4,
+  "twoStarMoves": 8,
+  "items": [
+    ["apple", "banana", "cola", "cookie"],
+    ["toy", "apple", "banana", "cola"],
+    ["cookie", "toy", "apple", "banana"],
+    ["cola", "cookie", "toy", null]
+  ]
+}

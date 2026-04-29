@@ -6,6 +6,11 @@ export interface LevelConfig {
   cols: number;
   matchCount: number;
   items: ItemType[][];
+  moveLimit?: number;
+
+  // 星级评价
+  threeStarMoves?: number;
+  twoStarMoves?: number;
 }
 
 export interface SlotPosition {

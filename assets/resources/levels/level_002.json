@@ -3,6 +3,8 @@
   "rows": 4,
   "cols": 4,
   "matchCount": 3,
+  "threeStarMoves": 2,
+  "twoStarMoves": 4,
   "items": [
     ["apple", "banana", "apple", null],
     ["banana", null, "apple", "banana"],
