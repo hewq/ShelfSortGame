@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "rows": 4,
+  "cols": 4,
+  "matchCount": 3,
+  "items": [
+    ["apple", "banana", "apple", null],
+    ["cola", "banana", null, "cola"],
+    ["apple", null, "cola", "banana"],
+    [null, null, null, null]
+  ]
+}
